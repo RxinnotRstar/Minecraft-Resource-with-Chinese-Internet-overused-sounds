@@ -1,4 +1,8 @@
 这个数据包修改了一些音效，替换成了简中互联网上已经用烂了的音效。
+
+
+[你别笑.webm](https://github.com/RxinnotRstar/Minecraft-Resource-with-Chinese-Internet-overused-sounds/assets/56676566/8550165d-4bce-4179-be9e-63edf9cc6ed5)
+
 > > > > > > > “你别笑”——————哈哈哈哈哈哈哈哈（声嘶力竭）
 > > > > > > > 
 > > > > > > “你别笑”——————哈哈哈哈哈哈哈哈（声嘶力竭）
